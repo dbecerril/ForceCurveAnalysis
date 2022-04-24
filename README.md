@@ -1,2 +1,3 @@
 # ForceCurveAnalysis
-Set of functions to analyze data obtained from AFM force curve measurments
+Set of functions written in Julia to obtain  Young Modulus from Force curves obtained with an AFM. 
+Filters and smoothing functions are also included. 
